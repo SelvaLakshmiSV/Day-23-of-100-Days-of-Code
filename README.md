@@ -8,6 +8,6 @@ return_type - The type of output returned by the function.
 function_name - name of the function
 set_of_inputs - inputs provided to the function
 ```
-###Why we are using function
+### Why we are using function
 - Reusability
 - Abstraction
