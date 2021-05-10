@@ -11,3 +11,5 @@ set_of_inputs - inputs provided to the function
 ### Why we are using function
 - Reusability
 - Abstraction
+### C program to find the area of a rectangle using function 
+![image](https://user-images.githubusercontent.com/76725996/117713008-b150da00-b1f2-11eb-80c6-1cac1f215990.png)
